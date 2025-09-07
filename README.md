@@ -9,7 +9,7 @@ It is available as open source software, released under the GPL-3. Please acknow
 It can be cited as follows:
 
 >
-> Grebe, E. (2022). Context-specific recency test property estimation tool (v1.0.0). UNAIDS and WHO. [https://github.com/eduardgrebe/recency_test_properties/](https://github.com/eduardgrebe/recency_test_properties/)
+> Grebe, E. (2022). Context-specific recency test property estimation tool (v1.0.0). UNAIDS and WHO. [![DOI](https://zenodo.org/badge/1052353149.svg)](https://doi.org/10.5281/zenodo.17074543). Github: [https://github.com/eduardgrebe/recency_test_properties/](https://github.com/eduardgrebe/recency_test_properties/)
 >
 
 It utilises a public-use dataset from the CEPHIA collaboration:
