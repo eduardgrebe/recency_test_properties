@@ -9,8 +9,34 @@ It is available as open source software, released under the GPL-3. Please acknow
 It can be cited as follows:
 
 >
-> Grebe, E. (2022). Context-specific recency test property estimation tool (v1.0.0). UNAIDS and WHO. [![DOI](https://zenodo.org/badge/1052353149.svg)](https://doi.org/10.5281/zenodo.17074543). Github: [https://github.com/eduardgrebe/recency_test_properties/](https://github.com/eduardgrebe/recency_test_properties/)
+> Grebe, E. (2025). Context-specific recency test property estimation tool (Version 1.0.0) (v1.0.0). UNIADS, WHO. [https://doi.org/10.5281/zenodo.17074544](https://doi.org/10.5281/zenodo.17074544)
 >
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17074544.svg)](https://doi.org/10.5281/zenodo.17074544)
+
+BibTeX entry:
+
+```
+@software{grebe_2025_17074544,
+  author       = {Grebe, Eduard},
+  title        = {Context-specific recency test property estimation
+                   tool (Version 1.0.0)
+                  },
+  month        = sep,
+  year         = 2025,
+  publisher    = {UNIADS, WHO},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.17074544},
+  url          = {https://doi.org/10.5281/zenodo.17074544},
+  swhid        = {swh:1:dir:38e8f58b938c702dcfc420e38eec1e241987ecef
+                   ;origin=https://doi.org/10.5281/zenodo.17074543;vi
+                   sit=swh:1:snp:b415b63e927559d5dc1f894d85182809de0d
+                   7593;anchor=swh:1:rel:473e81d1bda9afdf4aebcb2b5c1a
+                   0f1536831023;path=eduardgrebe-
+                   recency\_test\_properties-754142a
+                  },
+}
+```
 
 It utilises a public-use dataset from the CEPHIA collaboration:
 
